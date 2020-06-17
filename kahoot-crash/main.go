@@ -57,7 +57,7 @@ func main() {
 	msg := kahoot.Message{
 		"data": kahoot.Message{
 			"type":    "message",
-			"gameid":  gamePin,
+			"gameid":  4809623,
 			"host":    "kahoot.it",
 			"content": string(encodedContent),
 			"id":      6,
